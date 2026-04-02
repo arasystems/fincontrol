@@ -161,7 +161,7 @@ function HomeScreen({ txs, balance, income, expenses, onAdd }) {
   return (
     <div style={S.screen}>
       <p style={{ fontSize: 14, color: "#6B6D85", margin: 0 }}>Olá 👋</p>
-      <h2 style={{ margin: "2px 0 0", fontSize: 20, fontWeight: 700, color: "#1E1E2D" }}>Bem-vindo ao FinControl</h2>
+      <h2 style={{ margin: "2px 0 0", fontSize: 20, fontWeight: 700, color: "#1E1E2D" }}>Bem-vindo ao Momiquas Budget</h2>
 
       {/* Card saldo */}
       <div style={S.balanceCard}>
